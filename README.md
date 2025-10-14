@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project is a [personal online résumé](https://badj.github.io/Online-Resume/) hosted with GitHub Pages. The HTML résumé can be downloaded in PDF or MS Word doc formats.
+This project is a [personal online résumé](https://badj.github.io/online-resume/) hosted with GitHub Pages. The HTML résumé can be downloaded in PDF or MS Word doc formats.
 
-[![pages-build-deployment](https://github.com/badj/Online-Resume/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/badj/Online-Resume/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/badj/online-resume/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/badj/Online-Resume/actions/workflows/pages/pages-build-deployment)
 
 ![resume-preview.png](images/resume-preview.png)
 
@@ -19,8 +19,8 @@ This project is a [personal online résumé](https://badj.github.io/Online-Resum
 
 ## Features
 
-- [GitHub hosted résumé HTML page](https://badj.github.io/Online-Resume/)
-- Downloadable résumé in [**PDF**](https://github.com/badj/Online-Resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.pdf) and [**MS Word docx**](https://github.com/badj/Online-Resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.docx) formats.
+- [GitHub hosted résumé HTML page](https://badj.github.io/online-resume/)
+- Downloadable résumé in [**PDF**](https://github.com/badj/online-resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.pdf) and [**MS Word docx**](https://github.com/badj/online-resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.docx) formats.
 
 ***
 
