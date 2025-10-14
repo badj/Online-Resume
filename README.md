@@ -1,8 +1,8 @@
-# Online Resume hosted with GitHub Pages 
+# Online Résumé hosted with GitHub Pages 
 
 ## Overview
 
-This project is a [personal Online Resume](https://badj.github.io/Online-Resume/) hosted with GitHub Pages. The HTML resume can be downloaded in PDF or MS Word doc formats.
+This project is a [personal online résumé](https://badj.github.io/Online-Resume/) hosted with GitHub Pages. The HTML résumé can be downloaded in PDF or MS Word doc formats.
 
 [![pages-build-deployment](https://github.com/badj/Online-Resume/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/badj/Online-Resume/actions/workflows/pages/pages-build-deployment)
 
@@ -19,17 +19,17 @@ This project is a [personal Online Resume](https://badj.github.io/Online-Resume/
 
 ## Features
 
-- [GitHub hosted resume HTML page](https://badj.github.io/Online-Resume/)
-- Downloadable resume in [**PDF**](https://github.com/badj/Online-Resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.pdf) and [**MS Word docx**](https://github.com/badj/Online-Resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.docx) formats.
+- [GitHub hosted résumé HTML page](https://badj.github.io/Online-Resume/)
+- Downloadable résumé in [**PDF**](https://github.com/badj/Online-Resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.pdf) and [**MS Word docx**](https://github.com/badj/Online-Resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.docx) formats.
 
 ***
 
 ## Folder Structure
 
 ```terminaloutput
-├── download/  # Folder containing downloadable resume files
-├── images/    # Folder containing header headshot image used in HTML resume and page preview for Readme
-├── index.html # GitHub hosted resume HTML page
+├── download/  # Folder containing downloadable résumé files
+├── images/    # Folder containing header headshot image used in HTML résumé and page preview for Readme
+├── index.html # GitHub hosted résumé HTML page
 ```
 
 ***
@@ -38,6 +38,6 @@ This project is a [personal Online Resume](https://badj.github.io/Online-Resume/
 
 1. Tweak the header section to make the unused whitespace real estate less prominent.
 2. Update the contact information in header to be rendered in the same font size as the content - currently rendering smaller on mobile devices.
-3. Update resume content: Less wording and simplify to decrease pages.
+3. Update résumé content: Less wording and simplify to decrease pages.
 
 ***
