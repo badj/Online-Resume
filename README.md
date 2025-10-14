@@ -20,7 +20,7 @@ This project is a [personal Online Resume](https://badj.github.io/Online-Resume/
 ## Features
 
 - [GitHub hosted resume HTML page](https://badj.github.io/Online-Resume/)
-- Downloadable resume in [**PDF**](https://badj.github.io/Online-Resume/Download/JJ_BADENHORST_CV_2025_with_photo.pdf) and [**MS Word docx**](https://badj.github.io/Online-Resume/Download/JJ_BADENHORST_CV_2025_with_photo.docx) formats.
+- Downloadable resume in [**PDF**](https://github.com/badj/Online-Resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.pdf) and [**MS Word docx**](https://github.com/badj/Online-Resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.docx) formats.
 
 ***
 
