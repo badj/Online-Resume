@@ -6,6 +6,8 @@ This project is a [personal online résumé](https://badj.github.io/online-resum
 
 [![pages-build-deployment](https://github.com/badj/online-resume/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/badj/Online-Resume/actions/workflows/pages/pages-build-deployment)
 
+**Résumé sample**
+
 ![resume-preview.png](images/resume-preview.png)
 
 ***
